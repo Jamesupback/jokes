@@ -74,6 +74,7 @@
     #quote-box{
       top:500px;
       width:80%;
+      border-radius: 40px;
     }
     #author{
       font-size:30px;
@@ -82,7 +83,10 @@
       font-size: 40px;;
     }
     #butt,#tweet{
-      font-size: 2em;
+      font-size: 30px;;
+      width:150px;
+      height:80px!important;
+      border-radius: 15px;
     }
     h1{
       font-size: 2.5em !important;
